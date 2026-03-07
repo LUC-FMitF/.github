@@ -29,6 +29,8 @@ Our mission is to:
 * [George K. Thiruvathukal](https://gkt.sh/)
 * [TaiNing Wang](https://taining.github.io/)
 
+### Students
+* [Arslan Bisharat](https://marslan.cs.luc.edu/)
 ---
 
 This organization hosts repositories supporting:
