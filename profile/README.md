@@ -1,11 +1,11 @@
 
 ---
 
-# LUC-FMitF
+# LUC-AI4FM
 
-**Loyola University of Chicago Department of Computer Science — Formal Methods in the Field Research Group**
+**Loyola University of Chicago Department of Computer Science — AI4FM**
 
-Welcome to the official GitHub organization for the Formal Methods in the Field (FMitF) research group within the **Department of Computer Science** at **Loyola University Chicago**. We're a community of researchers, students, and collaborators advancing *formal methods*, *rigorous system design*, and *reproducible research tools*. ([CS Department][1])
+Welcome to the official GitHub organization for the AI For Formal Methods (AI4FM) research group within the **Department of Computer Science** at **Loyola University Chicago**. We're a community of researchers, students, and collaborators advancing *formal methods*, *rigorous system design*, and *reproducible research tools*. ([CS Department][1])
 
 ---
 
@@ -47,7 +47,7 @@ Current public repositories include:
 * `paper-parse` — Python utilities for PDF parsing
 * `FormaLLM-Reverse` — FormaLLM Fork focused on reversing TLA+ to textual specification documentation
 
-> **Note:** More repositories and experimental projects may be visible depending on your access level. ([LUC-FMitF on GitHub][3])
+> **Note:** More repositories and experimental projects may be visible depending on your access level. ([LUC-AI4FM on GitHub][3])
 
 ---
 
